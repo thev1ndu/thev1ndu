@@ -6,32 +6,6 @@
 
 <h3 align="center">DevOps Engineering x Machine Learning Enthusiast 🚀</h3>
 <hr>
-<h3 align="center">{ DevOps | Machine Learning | React | Express | Python }</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thev1ndu&label=Profile%20views&color=0e75b6&style=flat" alt="thev1ndu" />
-</p>
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-
-- 🎓 I’m currently studying **Computer Science** at **Informatics Institute of Technology (IIT)**
-
-- 🧠 Learning **DevOps tools, K8s, pipelines**, and **ML frameworks**
-
-- 💬 Ask me about **Frontend Development**, **CI/CD**, or **ML basics**
-
-- 🌐 Exploring the synergy between **Cloud Infrastructure** and **AI solutions**
-
-- 📫 Reach me at **itsthw9@gmail.com**
-
-</td>
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://github.com/user-attachments/assets/1080dfff-3922-44d0-ac8a-525691fbc93d">
-</td>
-</tr>
-</table>
 
 ---
 
