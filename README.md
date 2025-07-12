@@ -1,1 +1,1 @@
-<table></table>
+Nothing or nothing you can see
